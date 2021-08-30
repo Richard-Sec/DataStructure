@@ -29,23 +29,23 @@ int main()
 	CreArray(srcArr);
 	DisArray(srcArr);
 	St = clock();
-	//ц╟ещеепР
+	//Е├▓ФЁ║Ф▌▓Е╨▐
 	//BubbleSort(srcArr);
-	//я║тЯеепР
+	//И─┴Ф▀╘Ф▌▓Е╨▐
 	//SelectionSort(srcArr);
-	//╡ЕхКеепР
+	//Ф▐▓Е┘╔Ф▌▓Е╨▐
 	//InsertionSort(srcArr);
-	//оё╤ШеепР
+	//Е╦▄Е╟■Ф▌▓Е╨▐
 	//ShellSort(srcArr);
-	//╣щ╧И╥╗╧И╡╒еепР(вт╤╔оРоб)
+	//И─▓Е╫▓ФЁ∙Е╫▓Е╧╤Ф▌▓Е╨▐(Х┤╙И║╤Е░▒Д╦▀)
 	//MergeSort(srcArr);
-	//╥г╣щ╧И╥╗╧И╡╒еепР(вт╣воРио)
+	//И²·И─▓Е╫▓ФЁ∙Е╫▓Е╧╤Ф▌▓Е╨▐(Х┤╙Е╨∙Е░▒Д╦┼)
 	//DMergeSort(srcArr);
-	//©ЛкыеепР
+	//Е©╚И─÷Ф▌▓Е╨▐
 	//QuickSort(srcArr);
-	//╤яеепР
+	//Е═├Ф▌▓Е╨▐
 	//HeapSort(srcArr);
-	//╪фйЩеепР
+	//Х╝║Ф∙╟Ф▌▓Е╨▐
 	//CountingSort(srcArr);
 	Et = clock();
 	DisArray(srcArr);
